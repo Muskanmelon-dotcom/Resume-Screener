@@ -1,1 +1,8 @@
 # Resume-Screener
+Welcome to the Resume Screener Project!
+
+In today's competitive job market, efficiently screening resumes is more important than ever. Our project leverages the power of Python and Natural Language Processing (NLP) to automate the process of resume screening, saving countless hours of manual labor and increasing the precision of candidate selection. Built with a combination of Python's most powerful libraries such as NLTK, Spacy, and TensorFlow, this tool analyzes resumes, extracting essential information like skills, experience, education, and custom-defined parameters relevant to the job description.
+
+The project aims to assist HR professionals and recruiters in making informed decisions by providing a comprehensive analysis of each candidate's resume. The core features include keyword extraction, skill matching, experience evaluation, and a customizable ranking system that aligns with the specific needs of the hiring process. Whether you're a small business owner, a HR professional at a large corporation, or a fellow developer looking to contribute or learn from our project, we invite you to explore our repository. Dive into the code, suggest improvements, or simply use the tool to enhance your recruitment process. Together, we can make hiring more efficient, fair, and tailored to find the perfect fit for any role.
+
+For detailed documentation, usage guidelines, and contribution instructions, please check our docs folder. We are excited to see how the Resume Screener Project can streamline your recruitment process or inspire your projects. Happy screening!
